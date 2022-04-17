@@ -11,7 +11,7 @@ include("includes/db.php");
     
     
     <meta charset="UTF-8">
-    <title>Insert Products</title>
+    <title>Insert Productsss</title>
      <link rel="stylesheet" href="css/bootstrap-337.min.css">   
     <link rel="stylesheet" href="font-awsome/css/font-awesome.min.css">
    
